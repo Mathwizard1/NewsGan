@@ -1,0 +1,34 @@
+llama-3.2-1b-instruct/.gitattributes
+llama-3.2-1b-instruct/config.json
+llama-3.2-1b-instruct/generation_config.json
+llama-3.2-1b-instruct/LICENSE.txt
+llama-3.2-1b-instruct/model.safetensors
+llama-3.2-1b-instruct/README.md
+llama-3.2-1b-instruct/special_tokens_map.json
+llama-3.2-1b-instruct/tokenizer_config.json
+llama-3.2-1b-instruct/tokenizer.json
+llama-3.2-1b-instruct/USE_POLICY.md
+llama-3.2-1b-instruct/original/consolidated.00.pth
+llama-3.2-1b-instruct/original/params.json
+llama-3.2-1b-instruct/original/tokenizer.model
+llama-3.2-3b-instruct/.gitattributes
+llama-3.2-3b-instruct/config.json
+llama-3.2-3b-instruct/generation_config.json
+llama-3.2-3b-instruct/LICENSE.txt
+llama-3.2-3b-instruct/model.safetensors.index.json
+llama-3.2-3b-instruct/README.md
+llama-3.2-3b-instruct/special_tokens_map.json
+llama-3.2-3b-instruct/tokenizer_config.json
+llama-3.2-3b-instruct/USE_POLICY.md
+llama-3.2-3b-instruct/original/orig_params.json
+llama-3.2-3b-instruct/original/params.json
+llama-3.2-3b-instruct/original/tokenizer.model
+data/en_train.csv
+data/factual_content_english.csv
+data/gpt_snopes_with_facts.csv
+data/HateSpeechDatasetBalanced.csv
+data/test (1).csv
+data/validation (1).csv
+automodelforseqclass_classification.ipynb
+file.zip
+llama2_instruct_supervised.ipynb
